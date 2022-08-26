@@ -1,0 +1,8 @@
+MODULES USED IN NOTEBOOK
+
+pandas - for data analysis and manupulation tool: https://pandas.pydata.org/
+numpy  - scientific computing libraries for array manipulation, et al: https://numpy.org/
+matplotlib - library for producing data visualizations. Also used boxplot_stats for outlier computation: https://matplotlib.org/
+math - math functions defined by the C standard: https://docs.python.org/3/library/math.html
+sklearn - library for preictive data analysis. Specifically used MinMaxScaler and KMeans implementation: https://sklearn.org
+seaborn - another data visualization library based off of matplotlib: https://seaborn.pydata.org/
